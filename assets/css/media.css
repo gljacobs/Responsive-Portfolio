@@ -1,10 +1,17 @@
 @media screen and (max-width: 980px) {
     nav {
-        margin-right: 80px;
+        margin-right: 60px;
     }
     #masthead {
         margin-left: -10px;
         padding: 0 10px;
+    }
+
+    .main-section {
+        width: 70%;
+    }
+    #main-container {
+        padding-left: 5%;
     }
 }
 
