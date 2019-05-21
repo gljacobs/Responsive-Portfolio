@@ -24,6 +24,17 @@
     }
 }
 
-@media screen and (max-width: 640x) {
-
+@media screen and (max-width: 640px) {
+    #logo {
+        display: block;
+        width: 100%;
+    }
+    nav {
+        float: none;
+        margin-left: 23%;
+    }
+    #masthead {
+        margin-top: -35px;
+        padding: 0;
+    }
 }
