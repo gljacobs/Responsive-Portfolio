@@ -36,5 +36,13 @@
     #masthead {
         margin-top: -35px;
         padding: 0;
+        position: static;
+        margin: -35px 0 20px 0;
+    }
+    #main-container {
+        padding-top: 0;
+    }
+    .main-section {
+        padding: 20px;
     }
 }
